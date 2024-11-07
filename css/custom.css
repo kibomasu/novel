@@ -1,0 +1,108 @@
+/* CSS */
+
+html, body{
+	width: 100%; height: 100%;
+	background-color: #275da0;
+	font-family: serif;
+	
+}
+
+.navbar-brand img{
+	width: 28px; height: auto;
+	margin: 0px 5px; padding: 0px;
+	border-radius: 14px;
+	
+}
+
+nav{
+	background-color: #040083;
+}
+a.hover-sample:hover{
+	filter: opacity(60%);
+}
+
+#my_key{
+	width: auto; height: auto;
+	padding: 2rem 0px;
+	background-color:#275da0;
+	color: white;
+}
+
+#my_key img{
+	width: 600px; height: 350px;
+	margin: 1rem 0px;
+	/* border-radius: 90px; */
+	filter: drop-shadow(0 0 2.0rem rgb(104, 210, 255));
+}
+
+#my_key h1{
+	margin: 1rem 0px;
+	font-size: 3rem;
+}
+#my_key h1{
+	color: white;
+}
+
+#my_key p{
+	margin: 1rem 0px;
+	font-size: 1.2rem;
+}
+
+#my_portfolio{
+	text-align: center;
+}
+
+#my_portfolio{
+	width: 100%; height: auto;
+	background-color: antiquewhite;
+}
+
+#my_about{
+	width: 100%; height: auto;
+	background-color: sandybrown;
+	color: white;
+}
+
+#my_contact{
+	width: 100%; height: auto;
+	background-color: antiquewhite;
+}
+
+#my_contact i{
+	padding: 0.2rem;
+	font-size: 2rem;
+}
+
+.sha{
+	color: rgba(0, 0, 0, 0.279);
+}
+#minamo h1{
+	padding-top: 30px;
+}
+#minamo .suku{
+	width: 600px; height: 350px;
+}
+#minamo .zensin{
+	height: 600px; width: 220px;
+}
+#mina .zensin{
+	height: 600px; width: 220px;
+}
+#mina .suku{
+	width: 600px; height: 350px;
+}
+#mina h1{
+	padding-top: 30px;
+}
+#misaki .zensin{
+	height: 600px; width: 270px;
+}
+#misaki .suku{
+	width: 600px; height: 300px;
+}
+#misaki .mini{
+	width: 70px; height: 120px;
+}
+#misaki .h1{
+	padding-top: 30px;
+}
